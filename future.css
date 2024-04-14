@@ -1,0 +1,77 @@
+.future-head{
+    font-size: 25px;
+    font-weight: 700;
+    color: rgb(15, 97, 147);
+}
+.easy-img{
+    height: 50px;
+    width: 50px;
+}
+
+.easy-headi{
+    font-size: 17px;
+    font-weight: 500;
+    color: #654879;
+}
+
+.easy-phara{
+    font-size: 10px;
+    font-weight: 500;
+    color: #748498;
+}
+
+.hilight-styling{
+    font-size: 10px;
+    font-weight: 700;
+    color: #915484;
+}
+
+.easy-connect:hover{
+    background-color:bisque;
+    border-radius: 10px;
+    transition: background-color 0.09s ease;
+    padding: 10px;
+}
+
+.vr-visible:hover{
+    background-color: bisque;
+    border-radius: 10px;
+    transition: background-color 0.09s ease;
+    padding: 10px;
+
+}
+
+.video-games:hover{
+    background-color: bisque;
+    border-radius: 10px;
+    transition: background-color 0.09s ease;
+    padding: 10px;
+
+}
+
+.interact:hover{
+    background-color: bisque;
+    border-radius: 10px;
+    transition: background-color 0.09s ease;
+    padding: 10px;
+
+
+}
+
+.easy-play:hover{
+    background-color: bisque;
+    border-radius: 10px;
+    transition: background-color 0.09s ease;
+    padding: 10px;
+
+
+}
+
+.awesome-exp:hover{
+    background-color: bisque;
+    border-radius: 10px;
+    transition: background-color 0.09s ease;
+    padding: 10px;
+
+
+}
